@@ -1,0 +1,30 @@
+/* header */
+.header-container{
+    background-color: #F0FFF0;
+    width: 100%;
+    height: 70vh;
+}
+
+/* nav */
+.ml-auto{
+    margin-left: auto !important;
+}
+.ml-auto a {
+    color: #000000;
+}
+.nav-btn{
+    border: none;
+    width: 95px;
+    height: 40px;
+    background-color: #21B573;
+    color: #FFFFFF;
+    border-radius: 20px;
+}
+
+/* Banner */
+.p-style{
+   color: #FD511A;
+}
+.banner-container span{
+    color: #21B573;
+}

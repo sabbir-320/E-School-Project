@@ -1,0 +1,13 @@
+.footer-container2{
+    width:100%;
+    /* height: 500px; */
+    background: #282531;
+    color: #fff;
+}
+.footer-container2 li{
+    list-style: none;
+}
+.register{
+    width: 300px;
+    margin: auto;
+}

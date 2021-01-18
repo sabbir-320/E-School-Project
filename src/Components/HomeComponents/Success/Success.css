@@ -1,0 +1,11 @@
+.success-container{
+    background: #f2f6f2;
+    border: 1px solid #f3f1f1;
+    box-shadow:0px 2px 5px 2px  ;
+}
+.success-container img{
+    width: 30%;
+     height: "";
+     margin: auto;
+     margin-top: 20px;
+}
